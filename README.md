@@ -24,7 +24,7 @@ Ini merupakan skenario test yang dilakukan pada aplikasi ftgo pada order service
 ## Screenshots
 
 ### TC1
-![App Screenshot](https://drive.google.com/file/d/1NdkTTmabi9BGNpFSFjbPRe3-hBQWTsQR/view?usp=sharing)
+![Image](https://drive.google.com/file/d/1NdkTTmabi9BGNpFSFjbPRe3-hBQWTsQR/view?usp=sharing)
 
 
 ## Authors
