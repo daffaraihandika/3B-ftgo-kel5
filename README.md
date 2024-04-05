@@ -24,8 +24,32 @@ Ini merupakan skenario test yang dilakukan pada aplikasi ftgo pada order service
 ## Screenshots
 
 ### TC1
-![Image](https://drive.google.com/file/d/1NdkTTmabi9BGNpFSFjbPRe3-hBQWTsQR/view?usp=sharing)
-
+![Image TC1](https://github.com/daffaraihandika/3B-ftgo-kel5/blob/main/screenshot/tc01-1.png)
+![Image TC1](https://github.com/daffaraihandika/3B-ftgo-kel5/blob/main/screenshot/tc01-2.png)
+### TC2
+![Image TC](https://github.com/daffaraihandika/3B-ftgo-kel5/blob/main/screenshot/tc02-1.png)
+![Image TC](https://github.com/daffaraihandika/3B-ftgo-kel5/blob/main/screenshot/tc02-2.png)
+### TC3
+![Image TC](https://github.com/daffaraihandika/3B-ftgo-kel5/blob/main/screenshot/tc03-1.png)
+![Image TC](https://github.com/daffaraihandika/3B-ftgo-kel5/blob/main/screenshot/tc03-2.png)
+### TC4
+![Image TC](https://github.com/daffaraihandika/3B-ftgo-kel5/blob/main/screenshot/tc04-1.png)
+![Image TC](https://github.com/daffaraihandika/3B-ftgo-kel5/blob/main/screenshot/tc04-2.png)
+### TC5
+![Image TC](https://github.com/daffaraihandika/3B-ftgo-kel5/blob/main/screenshot/tc05-1.png)
+![Image TC](https://github.com/daffaraihandika/3B-ftgo-kel5/blob/main/screenshot/tc05-2.png)
+### TC6
+![Image TC](https://github.com/daffaraihandika/3B-ftgo-kel5/blob/main/screenshot/tc06-1.png)
+![Image TC](https://github.com/daffaraihandika/3B-ftgo-kel5/blob/main/screenshot/tc06-2.png)
+### TC7
+![Image TC](https://github.com/daffaraihandika/3B-ftgo-kel5/blob/main/screenshot/tc07-1.png)
+![Image TC](https://github.com/daffaraihandika/3B-ftgo-kel5/blob/main/screenshot/tc07-2.png)
+### TC9
+![Image TC](https://github.com/daffaraihandika/3B-ftgo-kel5/blob/main/screenshot/tc09-1.png)
+![Image TC](https://github.com/daffaraihandika/3B-ftgo-kel5/blob/main/screenshot/tc09-2.png)
+### TC11
+![Image TC](https://github.com/daffaraihandika/3B-ftgo-kel5/blob/main/screenshot/tc10-1.png)
+![Image TC](https://github.com/daffaraihandika/3B-ftgo-kel5/blob/main/screenshot/tc10-2.png)
 
 ## Authors
 
@@ -33,5 +57,5 @@ Ini merupakan skenario test yang dilakukan pada aplikasi ftgo pada order service
 - [@egisatriadyw](https://github.com/egisatriadyw)
 - [@daffaraihandika](https://github.com/daffaraihandika)
 - [@reihanhadifauzan](https://github.com/reihanhadifauzan)
-- []()
+- [@rakamhrdka10](https://github.com/rakamhrdka10)
 - [@zis4215](https://github.com/zis4215)
